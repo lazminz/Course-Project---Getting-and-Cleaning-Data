@@ -1,6 +1,7 @@
 Getting and Cleaning Data Course Project Code Book
 
 Original Data
+
 'features_info.txt': Shows information about the variables used on the feature vector.
 'features.txt': List of all features.
 'activity_labels.txt': Links the class labels with their activity name.
