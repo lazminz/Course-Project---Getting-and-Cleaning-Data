@@ -20,71 +20,137 @@ Final Tidy Data (final_output.txt) Variables
 1. subject - identification for who performed the activity
 2. label - identification for type of activity
 3. mean and standard deviation of the features:-
+        
         a) timeBodyaccelerometermean()-X
+        
         b) timeBodyaccelerometermean()-Y
+        
         c) timeBodyaccelerometermean()-Z
+        
         d) timeBodyaccelerometersd()-X
+        
         e) timeBodyaccelerometersd()-Y
+        
         f) timeBodyaccelerometersd()-Z
+        
         g) timeGravityaccelerometermean()-X
+        
         h) timeGravityaccelerometermean()-Y
+        
         i) timeGravityaccelerometermean()-Z
+        
         j) timeGravityaccelerometersd()-X
+        
         k) timeGravityaccelerometersd()-Y
+        
         l) timeGravityaccelerometersd()-Z
+        
         m) timeBodyaccelerometerJerkmean()-X
+        
         n) timeBodyaccelerometerJerkmean()-Y
+        
         o) timeBodyaccelerometerJerkmean()-Z
+        
         p)timeBodyaccelerometerJerksd()-X
+        
         q) timeBodyaccelerometerJerksd()-Y
+        
         r) timeBodyaccelerometerJerksd()-Z
+        
         s) timeBodygyroscopemean()-X
+        
         t) timeBodygyroscopemean()-Y
+        
         u) timeBodygyroscopemean()-Z
+        
         v) timeBodygyroscopesd()-X
+        
         w) timeBodygyroscopesd()-Y
+        
         x) timeBodygyroscopesd()-Z
+        
         y) timeBodygyroscopeJerkmean()-X
+        
         z) timeBodygyroscopeJerkmean()-Y
+        
         aa) timeBodygyroscopeJerkmean()-Z
+        
         ab) timeBodygyroscopeJerksd()-X
+        
         ac) timeBodygyroscopeJerksd()-Y
+        
         ad) timeBodygyroscopeJerksd()-Z
+        
         ae) timeBodyaccelerometermagnitudemean()
+        
         af) timeBodyaccelerometermagnitudesd()
+        
         ag) timeGravityaccelerometermagnitudemean()
+        
         ah) timeGravityaccelerometermagnitudesd()
+        
         ai) timeBodyaccelerometerJerkmagnitudemean()
+        
         aj) timeBodyaccelerometerJerkmagnitudesd()
+        
         ak) timeBodygyroscopemagnitudemean()
+        
         al) timeBodygyroscopemagnitudesd()
+        
         am) timeBodygyroscopeJerkmagnitudemean()
+        
         an) timeBodygyroscopeJerkmagnitudesd()
+        
         ao) frequencyBodyaccelerometermean()-X
+        
         ap) frequencyBodyaccelerometermean()-Y
+        
         aq) frequencyBodyaccelerometermean()-Z
+        
         ar) frequencyBodyaccelerometersd()-X
+        
         as) frequencyBodyaccelerometersd()-Y
+        
         at) frequencyBodyaccelerometersd()-Z
+        
         au) frequencyBodyaccelerometerJerkmean()-X
+        
         av) frequencyBodyaccelerometerJerkmean()-Y
+        
         aw) frequencyBodyaccelerometerJerkmean()-Z
+        
         ax) frequencyBodyaccelerometerJerksd()-X
+        
         ay) frequencyBodyaccelerometerJerksd()-Y
+        
         az) frequencyBodyaccelerometerJerksd()-Z
+        
         ba) frequencyBodygyroscopemean()-X
+        
         bb) frequencyBodygyroscopemean()-Y
+        
         bc) frequencyBodygyroscopemean()-Z
+        
         bd) frequencyBodygyroscopesd()-X
+        
         be) frequencyBodygyroscopesd()-Y
+        
         bf) frequencyBodygyroscopesd()-Z
+        
         bg) frequencyBodyaccelerometermagnitudemean()
+        
         bh) frequencyBodyaccelerometermagnitudesd()
+        
         bi) frequencybodyaccelerometerJerkmagnitudemean()
+        
         bj) frequencybodyaccelerometerJerkmagnitudesd()
+        
         bk) frequencybodygyroscopemagnitudemean()
+        
         bl) frequencybodygyroscopemagnitudesd()
+        
         bm) frequencybodygyroscopeJerkmagnitudemean()
+        
         bn) frequencybodygyroscopeJerkmagnitudesd()
 
 Transformations
